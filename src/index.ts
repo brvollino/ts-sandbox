@@ -23,9 +23,6 @@ exercise1();
 // import exercise4 from './Exercise_4_Interfaces/exercise4';
 // exercise4();
 
-// ======== Exercise 5: Code flow  =========
-// import exercise5 from './Exercise_5_Code_Flow/exercise5';
-// exercise5();
 
 
 // ⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇
@@ -48,6 +45,3 @@ exercise1();
 // import solution4 from './Exercise_4_Interfaces/solution4';
 // solution4();
 
-// ======== Solution 5: Code flow  =========
-// import solution5 from './Exercise_5_Code_Flow/solution5';
-// solution5();
